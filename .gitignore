@@ -1,0 +1,5 @@
+# Never upload your API key
+.env
+
+.ipynb_checkpoints/
+__pycache__/
